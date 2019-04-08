@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "uikit": "^3.0.3"
+  },
+  "name": "oneirros-webfront",
+  "version": "1.0.0",
+  "description": "OneiRRos Web Frontend",
+  "main": "index.js",
+  "repository": "https://github.com/Fira/oneirros-webfront.git",
+  "author": "Fira",
+  "license": "MIT"
+}
