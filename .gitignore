@@ -8,6 +8,7 @@
 /tmp/
 /yarn*.log
 /node_modules/
+/vendor/bundle/
 /yarn.lock
 /Gemfile.lock
 
